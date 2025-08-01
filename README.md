@@ -33,13 +33,13 @@ Beyond AI, my experiences include conducting scientific research, launching data
 
 ## 🚀 Projects
 
-### 🔹 [Income-Prediction-Using-US-Census-Data](https://github.com/ap4678/IncomePredictionProject/tree/main) *(📌 Pinned Project)*  
+### 🔹 [income-prediction-using-US-census-data](https://github.com/ap4678/IncomePredictionProject/tree/main) *(📌 Pinned Project)*  
 Built a binary classifier to predict income levels based on demographic data using logistic regression, decision trees, and SVM.  
 - **Tools:** Python, Pandas, scikit-learn, Seaborn, Jupyter  
 - **Result:** Achieved ~82% accuracy after optimization.  
 - Includes dataset, Jupyter notebooks, visualizations, and full documentation.
 
-### 🔹 [Machine-Learning-Foundations-Labs](https://github.com/ap4678/Machine-Learning-Foundations-BTT-/tree/main)  
+### 🔹 [machine-learning-foundations-labs](https://github.com/ap4678/Machine-Learning-Foundations-BTT-/tree/main)  
 Contains lab assignments and personal projects from a Machine Learning Foundations course exploring core ML techniques.  
 - **Projects include:**  
   1. **Income Classification Model:** Logistic regression, decision trees, random forest; evaluated with accuracy, precision, recall, and log loss.  
