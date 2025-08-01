@@ -1,11 +1,6 @@
-## Hi there 👋
+## 👋 Hi, I'm Aayusha Pokharel
 
-<!--
-**ap4678/ap4678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-👋 Hi, I'm Aayusha Pokharel
-
-🎓 First-Year at Barnard College of Columbia University | Economics & Computer Science  
+🎓 Second-Year at Barnard College of Columbia University | Economics & Computer Science  
 🧠 AI/ML Fellow at Cornell Tech’s Break Through Tech AI Program
 📍 Based in New York City | Originally from Nepal  
 🔗 [LinkedIn](http://www.linkedin.com/in/aayusha-p)  
@@ -38,8 +33,8 @@ Beyond AI, my experiences include conducting scientific research, launching data
 
 ## 🚀 Projects
 
-### 🔹 [income-prediction-ai-studio](https://github.com/yourusername/income-prediction-ai-studio) *(📌 Pinned Project)*  
-Used logistic regression, decision trees, and SVM to predict income level from demographic data.  
+### 🔹 [income-prediction-ai-studio]() *(📌 Pinned Project)*  
+Used logistic regression, decision trees, and Random Forest to predict income level from demographic data.  
 - Tools: Python, Pandas, scikit-learn, Seaborn, Jupyter  
 - Result: Achieved ~82% accuracy after optimization.  
 - Includes dataset, Jupyter notebooks, visualizations, and full documentation.
@@ -48,9 +43,6 @@ Used logistic regression, decision trees, and SVM to predict income level from d
 Drafted a literature review exploring the correlation between gut bacteria and mental health.  
 - Tools: JSTOR articles, Google Docs, literature synthesis  
 - Contribution: Led academic sessions, designed methodology, authored manuscript.
-
-
----
 
 ---
 
