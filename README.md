@@ -33,16 +33,25 @@ Beyond AI, my experiences include conducting scientific research, launching data
 
 ## 🚀 Projects
 
-### 🔹 [income-prediction-ai-studio]() *(📌 Pinned Project)*  
-Used logistic regression, decision trees, and Random Forest to predict income level from demographic data.  
-- Tools: Python, Pandas, scikit-learn, Seaborn, Jupyter  
-- Result: Achieved ~82% accuracy after optimization.  
+### 🔹 [Income-Prediction-Using-US-Census-Data](https://github.com/ap4678/IncomePredictionProject/tree/main) *(📌 Pinned Project)*  
+Built a binary classifier to predict income levels based on demographic data using logistic regression, decision trees, and SVM.  
+- **Tools:** Python, Pandas, scikit-learn, Seaborn, Jupyter  
+- **Result:** Achieved ~82% accuracy after optimization.  
 - Includes dataset, Jupyter notebooks, visualizations, and full documentation.
 
-### 🔹 [gut-microbiome-mental-health-review]()  
-Drafted a literature review exploring the correlation between gut bacteria and mental health.  
-- Tools: JSTOR articles, Google Docs, literature synthesis  
-- Contribution: Led academic sessions, designed methodology, authored manuscript.
+### 🔹 [Machine-Learning-Foundations-Labs](https://github.com/ap4678/Machine-Learning-Foundations-BTT-/tree/main)  
+Contains lab assignments and personal projects from a Machine Learning Foundations course exploring core ML techniques.  
+- **Projects include:**  
+  1. **Income Classification Model:** Logistic regression, decision trees, random forest; evaluated with accuracy, precision, recall, and log loss.  
+  2. **Regression Model Comparison:** Compared Linear Regression, Ridge Regression, and Random Forest Regressor using MSE and R².  
+  3. **Neural Network Implementation:** Built a feedforward neural network from scratch with NumPy; trained with backpropagation and gradient descent.  
+- **Tools:** Python, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, Jupyter Notebook.
+
+### 🔹 [video-poker](https://github.com/ap4678/Video-Poker/tree/main)  
+Implemented a simulation of the classic casino game Video Poker. The program supports betting 1-5 tokens and evaluates hands based on standard poker rankings with corresponding payouts.  
+- **Features:** Fair deck shuffling, card replacement mechanics, hand evaluation including pairs, straights, flushes, full houses, and royal flushes.  
+- **Tools:** Java (classes for Card, Deck, Game, Player), command-line interface, comprehensive game logic, and test suite.  
+- Includes two versions of the game constructor for normal play and testing with specified hands.
 
 ---
 
