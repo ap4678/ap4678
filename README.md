@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Aayusha Pokharel
 
-<img src="https://drive.google.com/file/d/1my2w4pauMMm3ILYaUC92cSjKhJg_p9wE/view" alt="Aayusha Pokharel" width="200" style="border-radius: 50%;" />
+<img src="https://drive.google.com/file/d/1my2w4pauMMm3ILYaUC92cSjKhJg_p9wE/view?usp=sharing" alt="Aayusha Pokharel" width="200" style="border-radius: 50%;" />
 
 🎓 Second-Year at Barnard College of Columbia University | Economics & Computer Science  
 🧠 AI/ML Fellow at Cornell Tech’s Break Through Tech AI Program
